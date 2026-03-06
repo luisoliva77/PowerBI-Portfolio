@@ -1,0 +1,71 @@
+﻿IDCLIENTE;NOME;SEXO;EMAIL;CPF
+1;Carlos Eduardo Silva;M;carlos.silva@email.com;12345678901
+2;Mariana Oliveira Souza;F;mariana.oliveira@email.com;12345678902
+3;João Pedro Santos;M;joao.santos@email.com;12345678903
+4;Ana Clara Ferreira;F;ana.ferreira@email.com;12345678904
+5;Lucas Almeida Costa;M;NULL;12345678905
+6;Fernanda Lima Rocha;F;fernanda.rocha@email.com;12345678906
+7;Rafael Martins;M;rafael.martins@email.com;12345678907
+8;Juliana Ribeiro;F;juliana.ribeiro@email.com;12345678908
+9;Bruno Carvalho;M;NULL;12345678909
+10;Camila Rodrigues;F;camila.rodrigues@email.com;12345678910
+11;Thiago Gomes;M;thiago.gomes@email.com;12345678911
+12;Patrícia Mendes;F;NULL;12345678912
+13;Eduardo Henrique Lima;M;eduardo.lima@email.com;12345678913
+14;Larissa Batista;F;larissa.batista@email.com;12345678914
+15;Gabriel Fernandes;M;gabriel.fernandes@email.com;12345678915
+16;Beatriz Nogueira;F;beatriz.nogueira@email.com;12345678916
+17;Vinicius Moraes;M;NULL;12345678917
+18;Aline Cardoso;F;aline.cardoso@email.com;12345678918
+19;Matheus Ribeiro;M;matheus.ribeiro@email.com;12345678919
+20;Renata Alves;F;renata.alves@email.com;12345678920
+21;Felipe Andrade;M;felipe.andrade@email.com;12345678921
+22;Isabela Martins;F;NULL;12345678922
+23;Diego Barbosa;M;diego.barbosa@email.com;12345678923
+24;Carolina Duarte;F;carolina.duarte@email.com;12345678924
+25;André Luiz Pereira;M;andre.pereira@email.com;12345678925
+26;Natália Gomes;F;natalia.gomes@email.com;12345678926
+27;Leonardo Castro;M;NULL;12345678927
+28;Priscila Teixeira;F;priscila.teixeira@email.com;12345678928
+29;Rodrigo Farias;M;rodrigo.farias@email.com;12345678929
+30;Tatiane Moreira;F;tatiane.moreira@email.com;12345678930
+31;Ricardo Oliveira;M;ricardo.oliveira@email.com;12345678931
+32;Letícia Spiller;F;leticia.spiller@email.com;12345678932
+33;Hugo Gloss;M;NULL;12345678933
+34;Bárbara Paz;F;barbara.paz@email.com;12345678934
+35;Sérgio Moro;M;sergio.moro@email.com;12345678935
+36;Cláudia Raia;F;claudia.raia@email.com;12345678936
+37;Marcos Pasquim;M;marcos.pasquim@email.com;12345678937
+38;Paolla Oliveira;F;NULL;12345678938
+39;Fábio Assunção;M;fabio.assuncao@email.com;12345678939
+40;Isis Valverde;F;isis.valverde@email.com;12345678940
+41;Cauã Reymond;M;caua.reymond@email.com;12345678941
+42;Grazi Massafera;F;grazi.massafera@email.com;12345678942
+43;Bruno Gagliasso;M;bruno.gagliasso@email.com;12345678943
+44;Giovanna Ewbank;F;NULL;12345678944
+45;Lázaro Ramos;M;lazaro.ramos@email.com;12345678945
+46;Taís Araújo;F;tais.araujo@email.com;12345678946
+47;Otaviano Costa;M;otaviano.costa@email.com;12345678947
+48;Flávia Alessandra;F;flavia.alessandra@email.com;12345678948
+49;Rodrigo Hilbert;M;rodrigo.hilbert@email.com;12345678949
+50;Fernanda Lima;F;NULL;12345678950
+51;Daniel de Oliveira;M;daniel.oliveira@email.com;12345678951
+52;Sophie Charlotte;F;sophie.charlotte@email.com;12345678952
+53;Mateus Solano;M;mateus.solano@email.com;12345678953
+54;Alinne Moraes;F;alinne.moraes@email.com;12345678954
+55;Vladimir Brichta;M;vladimir.brichta@email.com;12345678955
+56;Adriana Esteves;F;adriana.esteves@email.com;12345678956
+57;Murilo Benício;M;NULL;12345678957
+58;Débora Falabella;F;debora.falabella@email.com;12345678958
+59;Caio Castro;M;caio.castro@email.com;12345678959
+60;Bruna Marquezine;F;bruna.marquezine@email.com;12345678960
+61;Neymar Jr;M;ney.junior@email.com;12345678961
+62;Anitta Machado;F;anitta.machado@email.com;12345678962
+63;Luan Santana;M;luan.santana@email.com;12345678963
+64;Ivete Sangalo;F;NULL;12345678964
+65;Gusttavo Lima;M;gusttavo.lima@email.com;12345678965
+66;Marília Mendonça;F;marilia.mendonca@email.com;12345678966
+67;Jorge Barcelos;M;jorge.b@email.com;12345678967
+68;Mateus Liduário;M;mateus.l@email.com;12345678968
+69;Maiara Maraisa;F;maiara.m@email.com;12345678969
+70;Zezé Camargo;M;zeze.c@email.com;12345678970

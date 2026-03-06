@@ -1,0 +1,189 @@
+﻿IDVENDA;IDITEM;PRODUTO;CATEGORIA;FORNECEDOR;DATA_VENDA;CLIENTE;VENDEDOR;VALOR_TOTAL;FORMA_PAGAMENTO
+1;1;Banana Prata;Legumes e Verduras;Sítio Boa Terra;2026-02-28;Ana Clara Ferreira;Mariana Oliveira Lima;29.95;Pix
+2;2;Maçã Gala;Legumes e Verduras;Sítio Boa Terra;2026-02-28;Patrícia Mendes;Juliana Ferreira Costa;25.47;Débito
+3;3;Laranja Pera;Legumes e Verduras;Distribuidora Verde Vida;2026-02-28;Aline Cardoso;Patrícia Gomes Martins;34.93;Crédito
+4;4;Melancia;Legumes e Verduras;Sítio Vale Verde;2026-02-28;André Luiz Pereira;Ricardo Almeida Santos;7.98;Pix
+5;5;Abacaxi Pérola;Legumes e Verduras;Grãos Brasil Atacado;2026-02-28;Hugo Gloss;Fernando Rodrigues Silva;38.94;Débito
+6;6;Mamão Papaya;Legumes e Verduras;Sítio Vale Verde;2026-02-28;Isis Valverde;Bruno Carvalho Mendes;31.96;Crédito
+7;7;Uva Thompson;Legumes e Verduras;Sítio Vale Verde;2026-02-28;Sophie Charlotte;Camila Barbosa Rocha;38.70;Dinheiro
+8;8;Alface Crespa;Frutas;Distribuidora Verde Vida;2026-02-28;Neymar Jr;Carlos Henrique Souza;28.00;Pix
+9;9;Tomate Italiano;Frutas;Grãos Brasil Atacado;2026-02-28;Larissa Batista;Eduardo Nunes Pereira;34.95;Débito
+10;10;Brócolis Ninja;Frutas;Sítio Boa Terra;2026-02-28;Diego Barbosa;Larissa Teixeira Ramos;19.00;Crédito
+11;11;Couve Manteiga;Frutas;Distribuidora Verde Vida;2026-02-28;Sérgio Moro;Mariana Oliveira Lima;19.20;Pix
+12;12;Repolho Verde;Frutas;Distribuidora Verde Vida;2026-02-28;Giovanna Ewbank;Fernando Rodrigues Silva;8.20;Débito
+13;13;Pimentão Vermelho;Frutas;Sítio Boa Terra;2026-02-28;Vladimir Brichta;Patrícia Gomes Martins;26.25;Dinheiro
+14;14;Berinjela;Frutas;Sítio Boa Terra;2026-02-28;Anitta Machado;Juliana Ferreira Costa;47.70;Pix
+15;15;Feijão Carioca 1kg;Grão e Cereais;Grãos Brasil Atacado;2026-02-28;Zezé Camargo;Camila Barbosa Rocha;39.50;Crédito
+16;16;Arroz Branco 1kg;Grão e Cereais;Grãos Brasil Atacado;2026-02-28;Matheus Ribeiro;Ricardo Almeida Santos;26.00;Débito
+17;17;Lentilha 1kg;Grão e Cereais;Sítio Vale Verde;2026-02-28;Priscila Teixeira;Bruno Carvalho Mendes;50.40;Pix
+18;18;Grão-de-Bico 1kg;Grão e Cereais;Distribuidora Verde Vida;2026-02-28;Marcos Pasquim;Carlos Henrique Souza;63.70;Crédito
+19;19;Milho para Pipoca 500g;Grão e Cereais;Grãos Brasil Atacado;2026-02-28;Taís Araújo;Larissa Teixeira Ramos;14.40;Débito
+20;20;Batata Inglesa;Tubérculos;Distribuidora Verde Vida;2026-02-28;Caio Castro;Eduardo Nunes Pereira;33.60;Dinheiro
+21;21;Mandioca;Tubérculos;Sítio Boa Terra;2026-02-28;João Pedro Santos;Mariana Oliveira Lima;19.00;Pix
+22;22;Batata Doce;Tubérculos;Cooperativa Terra Fértil;2026-02-28;Juliana Ribeiro;Fernando Rodrigues Silva;27.60;Crédito
+23;23;Inhame;Tubérculos;Distribuidora Verde Vida;2026-02-28;Gabriel Fernandes;Patrícia Gomes Martins;24.00;Débito
+24;24;Beterraba;Tubérculos;Distribuidora Verde Vida;2026-02-28;Felipe Andrade;Camila Barbosa Rocha;11.70;Pix
+25;25;Cebolinha;Temperos e Ervas;Distribuidora Verde Vida;2026-02-28;Rodrigo Farias;Carlos Henrique Souza;17.50;Dinheiro
+26;26;Salsinha;Temperos e Ervas;Distribuidora Verde Vida;2026-02-28;Bárbara Paz;Juliana Ferreira Costa;12.50;Crédito
+27;27;Coentro;Temperos e Ervas;Grãos Brasil Atacado;2026-02-28;Grazi Massafera;Bruno Carvalho Mendes;5.40;Débito
+28;28;Manjericão;Temperos e Ervas;Cooperativa Terra Fértil;2026-02-28;Fernanda Lima;Ricardo Almeida Santos;12.00;Pix
+29;29;Alho 500g;Temperos e Ervas;Sítio Vale Verde;2026-02-28;Murilo Benício;Fernando Rodrigues Silva;43.50;Crédito
+30;30;Amendoim Torrado 500g;Sementes e Castanhas;Grãos Brasil Atacado;2026-02-28;Luan Santana;Larissa Teixeira Ramos;59.40;Débito
+31;31;Castanha de Caju 200g;Sementes e Castanhas;Grãos Brasil Atacado;2026-02-28;Bruno Carvalho;Eduardo Nunes Pereira;75.60;Dinheiro
+32;32;Chia 200g;Sementes e Castanhas;Sítio Vale Verde;2026-02-28;Beatriz Nogueira;Mariana Oliveira Lima;59.50;Pix
+33;33;Linhaça 500g;Sementes e Castanhas;Sítio Boa Terra;2026-02-28;Carolina Duarte;Patrícia Gomes Martins;62.30;Crédito
+34;34;Castanha do Pará 200g;Sementes e Castanhas;Grãos Brasil Atacado;2026-02-28;Ricardo Oliveira;Bruno Carvalho Mendes;59.70;Débito
+35;35;Banana Prata;Legumes e Verduras;Sítio Boa Terra;2026-02-28;Lázaro Ramos;Carlos Henrique Souza;35.94;Pix
+36;36;Maçã Gala;Legumes e Verduras;Sítio Boa Terra;2026-02-28;Mateus Solano;Juliana Ferreira Costa;33.96;Dinheiro
+37;37;Laranja Pera;Legumes e Verduras;Distribuidora Verde Vida;2026-02-28;Bruna Marquezine;Fernando Rodrigues Silva;9.98;Crédito
+38;38;Melancia;Legumes e Verduras;Sítio Vale Verde;2026-02-28;Jorge Barcelos;Camila Barbosa Rocha;19.95;Débito
+39;39;Abacaxi Pérola;Legumes e Verduras;Grãos Brasil Atacado;2026-02-28;Eduardo Henrique Lima;Ricardo Almeida Santos;51.92;Pix
+40;40;Mamão Papaya;Legumes e Verduras;Sítio Vale Verde;2026-02-28;Renata Alves;Patrícia Gomes Martins;23.97;Crédito
+41;41;Banana Prata;Legumes e Verduras;Sítio Boa Terra;2026-02-28;Diego Barbosa;Mariana Oliveira Lima;29.95;Pix
+42;42;Maçã Gala;Legumes e Verduras;Sítio Boa Terra;2026-02-28;Lázaro Ramos;Juliana Ferreira Costa;25.47;Débito
+43;43;Laranja Pera;Legumes e Verduras;Distribuidora Verde Vida;2026-02-28;Bárbara Paz;Patrícia Gomes Martins;34.93;Crédito
+44;44;Melancia;Legumes e Verduras;Sítio Vale Verde;2026-02-28;Felipe Andrade;Ricardo Almeida Santos;7.98;Pix
+45;45;Abacaxi Pérola;Legumes e Verduras;Grãos Brasil Atacado;2026-02-28;Patrícia Mendes;Fernando Rodrigues Silva;38.94;Débito
+46;46;Mamão Papaya;Legumes e Verduras;Sítio Vale Verde;2026-02-28;Jorge Barcelos;Bruno Carvalho Mendes;31.96;Crédito
+47;47;Uva Thompson;Legumes e Verduras;Sítio Vale Verde;2026-02-28;Isabela Martins;Camila Barbosa Rocha;38.70;Dinheiro
+48;48;Alface Crespa;Frutas;Distribuidora Verde Vida;2026-02-28;Neymar Jr;Carlos Henrique Souza;28.00;Pix
+49;49;Tomate Italiano;Frutas;Grãos Brasil Atacado;2026-02-28;Zezé Camargo;Eduardo Nunes Pereira;34.95;Débito
+50;50;Brócolis Ninja;Frutas;Sítio Boa Terra;2026-02-28;Eduardo Henrique Lima;Larissa Teixeira Ramos;19.00;Crédito
+51;51;Couve Manteiga;Frutas;Distribuidora Verde Vida;2026-02-28;Felipe Andrade;Mariana Oliveira Lima;19.20;Pix
+52;52;Repolho Verde;Frutas;Distribuidora Verde Vida;2026-02-28;Ivete Sangalo;Fernando Rodrigues Silva;8.20;Débito
+53;53;Pimentão Vermelho;Frutas;Sítio Boa Terra;2026-02-28;Luan Santana;Patrícia Gomes Martins;26.25;Dinheiro
+54;54;Berinjela;Frutas;Sítio Boa Terra;2026-02-28;Bárbara Paz;Juliana Ferreira Costa;47.70;Pix
+55;55;Feijão Carioca 1kg;Grão e Cereais;Grãos Brasil Atacado;2026-02-28;Marcos Pasquim;Camila Barbosa Rocha;39.50;Crédito
+56;56;Arroz Branco 1kg;Grão e Cereais;Grãos Brasil Atacado;2026-02-28;Beatriz Nogueira;Ricardo Almeida Santos;26.00;Débito
+57;57;Lentilha 1kg;Grão e Cereais;Sítio Vale Verde;2026-02-28;Aline Cardoso;Bruno Carvalho Mendes;50.40;Pix
+58;58;Grão-de-Bico 1kg;Grão e Cereais;Distribuidora Verde Vida;2026-02-28;Matheus Ribeiro;Carlos Henrique Souza;63.70;Crédito
+59;59;Milho para Pipoca 500g;Grão e Cereais;Grãos Brasil Atacado;2026-02-28;Natália Gomes;Larissa Teixeira Ramos;14.40;Débito
+60;60;Batata Inglesa;Tubérculos;Distribuidora Verde Vida;2026-02-28;Matheus Ribeiro;Eduardo Nunes Pereira;33.60;Dinheiro
+61;61;Mandioca;Tubérculos;Sítio Boa Terra;2026-02-28;Ricardo Oliveira;Mariana Oliveira Lima;19.00;Pix
+62;62;Batata Doce;Tubérculos;Cooperativa Terra Fértil;2026-02-28;Patrícia Mendes;Fernando Rodrigues Silva;27.60;Crédito
+63;63;Inhame;Tubérculos;Distribuidora Verde Vida;2026-02-28;Lucas Almeida Costa;Patrícia Gomes Martins;24.00;Débito
+64;64;Beterraba;Tubérculos;Distribuidora Verde Vida;2026-02-28;Ana Clara Ferreira;Camila Barbosa Rocha;11.70;Pix
+65;65;Cebolinha;Temperos e Ervas;Distribuidora Verde Vida;2026-02-28;Bruno Carvalho;Carlos Henrique Souza;17.50;Dinheiro
+66;66;Salsinha;Temperos e Ervas;Distribuidora Verde Vida;2026-02-28;Ana Clara Ferreira;Juliana Ferreira Costa;12.50;Crédito
+67;67;Coentro;Temperos e Ervas;Grãos Brasil Atacado;2026-02-28;Letícia Spiller;Bruno Carvalho Mendes;5.40;Débito
+68;68;Manjericão;Temperos e Ervas;Cooperativa Terra Fértil;2026-02-28;Bruna Marquezine;Ricardo Almeida Santos;12.00;Pix
+69;69;Alho 500g;Temperos e Ervas;Sítio Vale Verde;2026-02-28;Fernanda Lima;Fernando Rodrigues Silva;43.50;Crédito
+70;70;Amendoim Torrado 500g;Sementes e Castanhas;Grãos Brasil Atacado;2026-02-28;Lázaro Ramos;Larissa Teixeira Ramos;59.40;Débito
+71;71;Castanha de Caju 200g;Sementes e Castanhas;Grãos Brasil Atacado;2026-02-28;Patrícia Mendes;Eduardo Nunes Pereira;75.60;Dinheiro
+72;72;Chia 200g;Sementes e Castanhas;Sítio Vale Verde;2026-02-28;Larissa Batista;Mariana Oliveira Lima;59.50;Pix
+73;73;Linhaça 500g;Sementes e Castanhas;Sítio Boa Terra;2026-02-28;Diego Barbosa;Patrícia Gomes Martins;62.30;Crédito
+74;74;Castanha do Pará 200g;Sementes e Castanhas;Grãos Brasil Atacado;2026-02-28;Felipe Andrade;Bruno Carvalho Mendes;59.70;Débito
+75;75;Banana Prata;Legumes e Verduras;Sítio Boa Terra;2026-02-28;Grazi Massafera;Carlos Henrique Souza;35.94;Pix
+76;76;Maçã Gala;Legumes e Verduras;Sítio Boa Terra;2026-02-28;Taís Araújo;Juliana Ferreira Costa;33.96;Dinheiro
+77;77;Laranja Pera;Legumes e Verduras;Distribuidora Verde Vida;2026-02-28;Zezé Camargo;Fernando Rodrigues Silva;9.98;Crédito
+78;78;Melancia;Legumes e Verduras;Sítio Vale Verde;2026-02-28;Jorge Barcelos;Camila Barbosa Rocha;19.95;Débito
+79;79;Abacaxi Pérola;Legumes e Verduras;Grãos Brasil Atacado;2026-02-28;Mateus Solano;Ricardo Almeida Santos;51.92;Pix
+80;80;Mamão Papaya;Legumes e Verduras;Sítio Vale Verde;2026-02-28;Zezé Camargo;Patrícia Gomes Martins;23.97;Crédito
+81;81;Banana Prata;Legumes e Verduras;Sítio Boa Terra;2026-01-15;Patrícia Mendes;Ricardo Almeida Santos;17.97;Pix
+82;82;Maçã Gala;Legumes e Verduras;Sítio Boa Terra;2026-02-10;André Luiz Pereira;Fernando Rodrigues Silva;42.45;Débito
+83;83;Laranja Pera;Legumes e Verduras;Distribuidora Verde Vida;2026-03-22;Hugo Gloss;Bruno Carvalho Mendes;9.98;Crédito
+84;84;Melancia;Legumes e Verduras;Sítio Vale Verde;2026-04-05;Cauã Reymond;Mariana Oliveira Lima;15.96;Pix
+85;85;Abacaxi Pérola;Legumes e Verduras;Grãos Brasil Atacado;2026-05-18;Vladimir Brichta;Patrícia Gomes Martins;38.94;Dinheiro
+86;86;Mamão Papaya;Legumes e Verduras;Sítio Vale Verde;2026-06-09;Aline Cardoso;Camila Barbosa Rocha;23.97;Débito
+87;87;Uva Thompson;Legumes e Verduras;Sítio Vale Verde;2026-07-14;Anitta Machado;Juliana Ferreira Costa;90.30;Crédito
+88;88;Alface Crespa;Frutas;Distribuidora Verde Vida;2026-08-03;Rodrigo Farias;Eduardo Nunes Pereira;7.00;Pix
+89;89;Tomate Italiano;Frutas;Grãos Brasil Atacado;2026-09-11;Marcos Pasquim;Carlos Henrique Souza;34.95;Débito
+90;90;Brócolis Ninja;Frutas;Sítio Boa Terra;2026-10-27;Giovanna Ewbank;Fernando Rodrigues Silva;14.25;Dinheiro
+91;91;Couve Manteiga;Frutas;Distribuidora Verde Vida;2026-01-30;Daniel de Oliveira;Larissa Teixeira Ramos;12.80;Crédito
+92;92;Repolho Verde;Frutas;Distribuidora Verde Vida;2026-02-18;Bruna Marquezine;Bruno Carvalho Mendes;24.60;Pix
+93;93;Pimentão Vermelho;Frutas;Sítio Boa Terra;2026-03-09;Isabela Martins;Patrícia Gomes Martins;26.25;Débito
+94;94;Berinjela;Frutas;Sítio Boa Terra;2026-04-21;Fábio Assunção;Ricardo Almeida Santos;26.50;Dinheiro
+95;95;Feijão Carioca 1kg;Grão e Cereais;Grãos Brasil Atacado;2026-05-02;Thiago Gomes;Camila Barbosa Rocha;15.80;Crédito
+96;96;Arroz Branco 1kg;Grão e Cereais;Grãos Brasil Atacado;2026-06-17;Flávia Alessandra;Mariana Oliveira Lima;26.00;Pix
+97;97;Lentilha 1kg;Grão e Cereais;Sítio Vale Verde;2026-07-25;Jorge Barcelos;Juliana Ferreira Costa;25.20;Débito
+98;98;Grão-de-Bico 1kg;Grão e Cereais;Distribuidora Verde Vida;2026-08-19;Larissa Batista;Fernando Rodrigues Silva;54.60;Dinheiro
+99;99;Milho para Pipoca 500g;Grão e Cereais;Grãos Brasil Atacado;2026-09-06;Débora Falabella;Carlos Henrique Souza;24.00;Crédito
+100;100;Batata Inglesa;Tubérculos;Distribuidora Verde Vida;2026-10-13;Sérgio Moro;Eduardo Nunes Pereira;12.60;Pix
+101;101;Mandioca;Tubérculos;Sítio Boa Terra;2026-11-04;Bruno Gagliasso;Patrícia Gomes Martins;18.40;Débito
+102;102;Batata Doce;Tubérculos;Cooperativa Terra Fértil;2026-12-12;Matheus Ribeiro;Ricardo Almeida Santos;12.00;Crédito
+103;103;Inhame;Tubérculos;Distribuidora Verde Vida;2026-01-08;Sophie Charlotte;Fernando Rodrigues Silva;19.50;Dinheiro
+104;104;Beterraba;Tubérculos;Distribuidora Verde Vida;2026-02-26;Leonardo Castro;Bruno Carvalho Mendes;7.50;Pix
+105;105;Cebolinha;Temperos e Ervas;Distribuidora Verde Vida;2026-03-15;Ivete Sangalo;Juliana Ferreira Costa;17.50;Débito
+106;106;Salsinha;Temperos e Ervas;Distribuidora Verde Vida;2026-04-29;Tatiane Moreira;Camila Barbosa Rocha;10.80;Crédito
+107;107;Coentro;Temperos e Ervas;Grãos Brasil Atacado;2026-05-23;Felipe Andrade;Larissa Teixeira Ramos;18.00;Dinheiro
+108;108;Manjericão;Temperos e Ervas;Cooperativa Terra Fértil;2026-06-11;Rodrigo Hilbert;Carlos Henrique Souza;29.00;Pix
+109;109;Alho 500g;Temperos e Ervas;Sítio Vale Verde;2026-07-07;Beatriz Nogueira;Patrícia Gomes Martins;29.70;Débito
+110;110;Amendoim Torrado 500g;Sementes e Castanhas;Grãos Brasil Atacado;2026-08-28;Caio Castro;Mariana Oliveira Lima;94.50;Crédito
+111;111;Castanha de Caju 200g;Sementes e Castanhas;Grãos Brasil Atacado;2026-09-17;Eduardo Henrique Lima;Fernando Rodrigues Silva;47.60;Dinheiro
+112;112;Banana Prata;Legumes e Verduras;Sítio Boa Terra;2026-01-05;Camila Rodrigues;Mariana Oliveira Lima;29.95;Pix
+113;113;Maçã Gala;Legumes e Verduras;Sítio Boa Terra;2026-01-12;Isabela Martins;Fernando Rodrigues Silva;67.92;Débito
+114;114;Abacaxi Pérola;Legumes e Verduras;Grãos Brasil Atacado;2026-01-18;Gabriel Fernandes;Bruno Carvalho Mendes;25.96;Crédito
+115;115;Melancia;Legumes e Verduras;Sítio Vale Verde;2026-02-03;Hugo Gloss;Ricardo Almeida Santos;23.94;Pix
+116;116;Uva Thompson;Legumes e Verduras;Sítio Vale Verde;2026-02-15;Giovanna Ewbank;Camila Barbosa Rocha;90.30;Dinheiro
+117;117;Laranja Pera;Legumes e Verduras;Distribuidora Verde Vida;2026-02-26;Daniel de Oliveira;Juliana Ferreira Costa;14.97;Débito
+118;118;Mamão Papaya;Legumes e Verduras;Sítio Vale Verde;2026-03-07;Neymar Jr;Eduardo Nunes Pereira;71.91;Crédito
+119;119;Tomate Italiano;Frutas;Grãos Brasil Atacado;2026-03-19;Patrícia Mendes;Carlos Henrique Souza;27.96;Pix
+120;120;Brócolis Ninja;Frutas;Sítio Boa Terra;2026-03-28;Priscila Teixeira;Patrícia Gomes Martins;28.50;Dinheiro
+121;121;Repolho Verde;Frutas;Distribuidora Verde Vida;2026-04-05;Sérgio Moro;Fernando Rodrigues Silva;41.00;Débito
+122;122;Pimentão Vermelho;Frutas;Sítio Boa Terra;2026-04-14;Isis Valverde;Bruno Carvalho Mendes;52.50;Crédito
+123;123;Berinjela;Frutas;Sítio Boa Terra;2026-04-27;Vladimir Brichta;Ricardo Almeida Santos;63.60;Pix
+124;124;Feijão Carioca 1kg;Grão e Cereais;Grãos Brasil Atacado;2026-05-09;Aline Cardoso;Camila Barbosa Rocha;55.30;Dinheiro
+125;125;Arroz Branco 1kg;Grão e Cereais;Grãos Brasil Atacado;2026-05-20;Carolina Duarte;Mariana Oliveira Lima;58.50;Débito
+126;126;Lentilha 1kg;Grão e Cereais;Sítio Vale Verde;2026-05-30;Luan Santana;Larissa Teixeira Ramos;92.40;Pix
+127;127;Grão-de-Bico 1kg;Grão e Cereais;Distribuidora Verde Vida;2026-06-08;Rodrigo Farias;Juliana Ferreira Costa;72.80;Crédito
+128;128;Milho para Pipoca 500g;Grão e Cereais;Grãos Brasil Atacado;2026-06-19;Otaviano Costa;Patrícia Gomes Martins;28.80;Dinheiro
+129;129;Batata Inglesa;Tubérculos;Distribuidora Verde Vida;2026-06-29;Caio Castro;Carlos Henrique Souza;42.00;Débito
+130;130;Mandioca;Tubérculos;Sítio Boa Terra;2026-07-04;Ricardo Oliveira;Fernando Rodrigues Silva;55.20;Pix
+131;131;Batata Doce;Tubérculos;Cooperativa Terra Fértil;2026-07-16;Grazi Massafera;Bruno Carvalho Mendes;42.00;Débito
+132;132;Inhame;Tubérculos;Distribuidora Verde Vida;2026-07-27;Renata Alves;Ricardo Almeida Santos;35.10;Crédito
+133;133;Beterraba;Tubérculos;Distribuidora Verde Vida;2026-08-06;Marcos Pasquim;Eduardo Nunes Pereira;37.50;Dinheiro
+134;134;Cebolinha;Temperos e Ervas;Distribuidora Verde Vida;2026-08-18;Bruna Marquezine;Camila Barbosa Rocha;27.50;Pix
+135;135;Salsinha;Temperos e Ervas;Distribuidora Verde Vida;2026-08-29;Larissa Batista;Juliana Ferreira Costa;35.10;Débito
+136;136;Coentro;Temperos e Ervas;Grãos Brasil Atacado;2026-09-05;Fernanda Lima;Larissa Teixeira Ramos;24.00;Crédito
+137;137;Manjericão;Temperos e Ervas;Cooperativa Terra Fértil;2026-09-17;Diego Barbosa;Mariana Oliveira Lima;87.00;Dinheiro
+138;138;Alho 500g;Temperos e Ervas;Sítio Vale Verde;2026-09-28;Marília Mendonça;Patrícia Gomes Martins;99.00;Pix
+139;139;Amendoim Torrado 500g;Sementes e Castanhas;Grãos Brasil Atacado;2026-10-04;Lázaro Ramos;Fernando Rodrigues Silva;264.60;Débito
+140;140;Castanha de Caju 200g;Sementes e Castanhas;Grãos Brasil Atacado;2026-10-16;Paolla Oliveira;Bruno Carvalho Mendes;107.10;Crédito
+141;141;Banana Prata;Legumes e Verduras;Sítio Boa Terra;2026-10-27;Sophie Charlotte;Ricardo Almeida Santos;71.88;Pix
+142;142;Maçã Gala;Legumes e Verduras;Sítio Boa Terra;2026-11-05;Vinicius Moraes;Camila Barbosa Rocha;152.82;Débito
+143;143;Uva Thompson;Legumes e Verduras;Sítio Vale Verde;2026-11-18;Ivete Sangalo;Juliana Ferreira Costa;258.00;Crédito
+144;144;Mamão Papaya;Legumes e Verduras;Sítio Vale Verde;2026-11-29;Felipe Andrade;Eduardo Nunes Pereira;127.84;Dinheiro
+145;145;Abacaxi Pérola;Legumes e Verduras;Grãos Brasil Atacado;2026-12-05;Hugo Gloss;Patrícia Gomes Martins;162.25;Pix
+146;146;Laranja Pera;Legumes e Verduras;Distribuidora Verde Vida;2026-12-12;Flávia Alessandra;Larissa Teixeira Ramos;149.70;Débito
+147;147;Berinjela;Frutas;Sítio Boa Terra;2026-12-19;Débora Falabella;Fernando Rodrigues Silva;116.60;Crédito
+148;148;Uva Thompson;Legumes e Verduras;Sítio Vale Verde;2026-12-28;Zezé Camargo;Bruno Carvalho Mendes;451.50;Dinheiro
+149;149;Tomate Italiano;Frutas;Grãos Brasil Atacado;2026-01-05;Patrícia Mendes;Mariana Oliveira Lima;400.00;Pix
+150;150;Mandioca;Tubérculos;Sítio Boa Terra;2026-01-11;Lázaro Ramos;Fernando Rodrigues Silva;450.00;Débito
+151;151;Uva Thompson;Legumes e Verduras;Sítio Vale Verde;2026-01-18;Tatiane Moreira;Ricardo Almeida Santos;480.00;Crédito
+152;152;Berinjela;Frutas;Sítio Boa Terra;2026-01-27;Renata Alves;Bruno Carvalho Mendes;540.00;Pix
+153;153;Abacaxi Pérola;Legumes e Verduras;Grãos Brasil Atacado;2026-04-02;Isabela Martins;Eduardo Nunes Pereira;720.00;Débito
+154;154;Pimentão Vermelho;Frutas;Sítio Boa Terra;2026-04-10;Lucas Almeida Costa;Mariana Oliveira Lima;550.00;Pix
+155;155;Coentro;Temperos e Ervas;Grãos Brasil Atacado;2026-04-18;Otaviano Costa;Fernando Rodrigues Silva;560.00;Dinheiro
+156;156;Alface Crespa;Frutas;Distribuidora Verde Vida;2026-04-26;Fábio Assunção;Ricardo Almeida Santos;270.00;Crédito
+157;157;Grão-de-Bico 1kg;Grão e Cereais;Distribuidora Verde Vida;2026-05-04;Gabriel Fernandes;Patrícia Gomes Martins;720.00;Débito
+158;158;Castanha de Caju 200g;Sementes e Castanhas;Grãos Brasil Atacado;2026-05-12;Cauã Reymond;Juliana Ferreira Costa;600.00;Pix
+159;159;Mamão Papaya;Legumes e Verduras;Sítio Vale Verde;2026-05-29;Juliana Ribeiro;Carlos Henrique Souza;225.00;Crédito
+160;160;Batata Inglesa;Tubérculos;Distribuidora Verde Vida;2026-06-03;Vladimir Brichta;Fernando Rodrigues Silva;665.00;Pix
+161;161;Repolho Verde;Frutas;Distribuidora Verde Vida;2026-06-19;Anitta Machado;Ricardo Almeida Santos;510.00;Crédito
+162;162;Laranja Pera;Legumes e Verduras;Distribuidora Verde Vida;2026-06-27;Leonardo Castro;Bruno Carvalho Mendes;225.00;Dinheiro
+163;163;Couve Manteiga;Frutas;Distribuidora Verde Vida;2026-03-03;Hugo Gloss;Juliana Ferreira Costa;500.00;Dinheiro
+164;164;Beterraba;Tubérculos;Distribuidora Verde Vida;2026-03-09;Fernanda Lima;Patrícia Gomes Martins;520.00;Débito
+165;165;Alho 500g;Temperos e Ervas;Sítio Vale Verde;2026-03-16;Camila Rodrigues;Camila Barbosa Rocha;540.00;Pix
+166;166;Lentilha 1kg;Grão e Cereais;Sítio Vale Verde;2026-03-25;Neymar Jr;Carlos Henrique Souza;450.00;Crédito
+167;167;Arroz Branco 1kg;Grão e Cereais;Grãos Brasil Atacado;2026-07-02;Larissa Batista;Mariana Oliveira Lima;660.00;Débito
+168;168;Batata Doce;Tubérculos;Cooperativa Terra Fértil;2026-07-10;Flávia Alessandra;Patrícia Gomes Martins;475.00;Pix
+169;169;Manjericão;Temperos e Ervas;Cooperativa Terra Fértil;2026-07-18;Bruno Carvalho;Juliana Ferreira Costa;560.00;Dinheiro
+170;170;Couve Manteiga;Frutas;Distribuidora Verde Vida;2026-07-27;Cláudia Raia;Bruno Carvalho Mendes;330.00;Crédito
+171;171;Milho para Pipoca 500g;Grão e Cereais;Grãos Brasil Atacado;2026-08-03;André Luiz Pereira;Ricardo Almeida Santos;600.00;Pix
+172;172;Chia 200g;Sementes e Castanhas;Sítio Vale Verde;2026-08-11;Sophie Charlotte;Camila Barbosa Rocha;600.00;Débito
+173;173;Feijão Carioca 1kg;Grão e Cereais;Grãos Brasil Atacado;2026-08-19;João Pedro Santos;Fernando Rodrigues Silva;510.00;Crédito
+174;174;Mamão Papaya;Legumes e Verduras;Sítio Vale Verde;2026-08-28;Ivete Sangalo;Eduardo Nunes Pereira;270.00;Dinheiro
+175;175;Inhame;Tubérculos;Distribuidora Verde Vida;2026-09-05;Aline Cardoso;Juliana Ferreira Costa;700.00;Débito
+176;176;Amendoim Torrado 500g;Sementes e Castanhas;Grãos Brasil Atacado;2026-09-13;Bruno Gagliasso;Patrícia Gomes Martins;520.00;Pix
+177;177;Pimentão Vermelho;Frutas;Sítio Boa Terra;2026-09-21;Fernanda Lima Rocha;Carlos Henrique Souza;475.00;Crédito
+178;178;Grão-de-Bico 1kg;Grão e Cereais;Distribuidora Verde Vida;2026-10-04;Thiago Gomes;Bruno Carvalho Mendes;720.00;Pix
+179;179;Alho 500g;Temperos e Ervas;Sítio Vale Verde;2026-10-20;Rodrigo Hilbert;Camila Barbosa Rocha;520.00;Crédito
+180;180;Melancia;Legumes e Verduras;Sítio Vale Verde;2026-10-28;Felipe Andrade;Mariana Oliveira Lima;255.00;Dinheiro
+181;181;Mandioca;Tubérculos;Sítio Boa Terra;2026-11-03;Isis Valverde;Ricardo Almeida Santos;630.00;Débito
+182;182;Coentro;Temperos e Ervas;Grãos Brasil Atacado;2026-11-10;Rafael Martins;Patrícia Gomes Martins;560.00;Pix
+183;183;Repolho Verde;Frutas;Distribuidora Verde Vida;2026-11-18;Bruna Marquezine;Juliana Ferreira Costa;450.00;Crédito
+184;184;Alface Crespa;Frutas;Distribuidora Verde Vida;2026-11-26;Letícia Spiller;Eduardo Nunes Pereira;315.00;Dinheiro
+185;185;Linhaça 500g;Sementes e Castanhas;Sítio Boa Terra;2026-12-02;Beatriz Nogueira;Fernando Rodrigues Silva;240.00;Pix
+186;186;Linhaça 500g;Sementes e Castanhas;Sítio Boa Terra;2026-12-02;Beatriz Nogueira;Fernando Rodrigues Silva;240.00;Pix
+187;187;Castanha do Pará 200g;Sementes e Castanhas;Grãos Brasil Atacado;2026-12-10;Mateus Solano;Camila Barbosa Rocha;900.00;Débito
+188;188;Castanha do Pará 200g;Sementes e Castanhas;Grãos Brasil Atacado;2026-12-10;Mateus Solano;Camila Barbosa Rocha;900.00;Débito
