@@ -50,10 +50,10 @@ Cada projeto possui sua própria documentação, apresentando o contexto da aná
 ## 📫 Contato
 
 Caso queira conhecer outros projetos ou entrar em contato:
-
+```
 💼 LinkedIn: https://www.linkedin.com/in/lu%C3%ADs-felipe-769075352/
 💻 GitHub: https://github.com/luisoliva77?tab=repositories
-
+```
 ⭐ Obrigado por visitar meu portfólio!
 
 Espero que os projetos sejam úteis para demonstrar minha evolução e meu interesse pela área de Dados, Business Intelligence e Engenharia de Dados.
