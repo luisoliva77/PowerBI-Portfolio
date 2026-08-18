@@ -55,31 +55,31 @@ Quais regiões apresentam maior disponibilidade média?
 
 # Entre os principais insights identificados:
 ```text
-### 💰 Manhattan apresenta o maior preço médio
+💰 Manhattan apresenta o maior preço médio
 
 Entre as regiões analisadas, Manhattan apresenta o maior preço médio, enquanto o Bronx apresenta o menor valor médio.
 
 Esse indicador permite observar uma diferença significativa no comportamento dos preços entre as regiões.
 
-### 📅 Diferença na disponibilidade
+📅 Diferença na disponibilidade
 
 A disponibilidade média também apresenta diferenças relevantes entre as regiões.
 
 Staten Island possui a maior disponibilidade média, enquanto Brooklyn apresenta a menor disponibilidade entre as regiões exibidas.
 
-### 📍 Concentração dos anúncios
+📍 Concentração dos anúncios
 
 O mapa demonstra uma forte concentração de anúncios na região de Nova York, permitindo visualizar como os imóveis estão distribuídos geograficamente.
 
 Essa visualização facilita a identificação de áreas com maior concentração de hospedagens.
 
-### 👤 Concentração de anúncios por anfitrião
+👤 Concentração de anúncios por anfitrião
 
 O ranking de anfitriões permite identificar quais possuem maior quantidade de anúncios na plataforma.
 
 Na visão apresentada, Michael e David aparecem entre os anfitriões com maior quantidade de anúncios, seguidos por outros anfitriões com volumes menores.
 
-### 🏠 Distribuição dos tipos de imóvel
+🏠 Distribuição dos tipos de imóvel
 
 O gráfico de distribuição demonstra que determinados tipos de acomodação representam uma parcela significativamente maior dos anúncios, enquanto outros possuem uma participação muito menor.
 
