@@ -72,3 +72,9 @@ A partir das informações apresentadas, gestores podem utilizar o dashboard par
 - direcionar estratégias comerciais;
 - apoiar decisões relacionadas a estoque e produtos;
 - acompanhar indicadores de desempenho ao longo do tempo.
+
+ Acesso ao Projeto
+
+O dashboard está disponível para visualização através do link abaixo:
+
+🔗 **[Acessar Dashboard de Vendas](https://app.powerbi.com/view?r=eyJrIjoiNDk3MTdhODYtNDZjNy00YjEyLWE5ZWYtYzA1ODlhOWRmZjdjIiwidCI6IjFkYjg3Njk3LWJhNWUtNDcyMC1iNmQ1LTIxNzA3Y2Q5YTRjNyJ9)**
