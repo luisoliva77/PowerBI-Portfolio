@@ -206,7 +206,7 @@ A taxa de cancelamento do cliente aumentou conforme o `Avg VTAT`:
 
 ![Cancelamento do cliente por faixa de VTAT](Imagens/taxa_espera.png)
 
-O comportamento sugere associação entre espera e desistência. Entretanto, o resultado de 100% acima de 15 minutos deve ser validado, pois pode refletir a forma como o campo foi preenchido ou disponibilizado na base.
+Na amostra analisada, todas as 206 reservas com Avg VTAT superior a 15 minutos foram canceladas pelo cliente.
 
 Além disso, **44,10% dos motivos informados pelos clientes** estavam relacionados a:
 
