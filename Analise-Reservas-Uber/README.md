@@ -131,9 +131,7 @@ A base apresentou:
 
 O primeiro nível da análise confirmou que mais de uma em cada três reservas não foi concluída.
 
-> **Inserir gráfico:** composição geral entre corridas concluídas e não concluídas.
->
-> Caminho sugerido: `Imagens/Proporção_Corridas.png`
+![Composição entre corridas concluídas e não concluídas](Imagens/Proporcao_Corridas.png)
 
 ### Passo 4: decompor a não conclusão por status
 
