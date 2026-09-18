@@ -151,7 +151,7 @@ O cancelamento pelo motorista foi o maior componente da não conclusão. Por iss
 
 As localidades foram comparadas pela taxa de não conclusão. Foram selecionadas as dez localidades acima da média geral com maior resultado.
 
-![Top 10 localidades prioritárias](Imagens/)
+![Top 10 localidades prioritárias](Imagens/top10_localidades.png)
 
 | Localidade | Reservas | Não concluídas | Taxa de não conclusão |
 |---|---:|---:|---:|
@@ -182,7 +182,7 @@ Os motivos apresentaram distribuição próxima:
 | The customer was coughing/sick | 24,94% |
 | Personal & Car related issues | 24,65% |
 
-![Motivos de cancelamento dos motoristas](assets/04_motivos_motorista.png)
+![Motivos de cancelamento dos motoristas](Imagens/motivos_motorista.png)
 
 Não houve um único motivo dominante. O resultado indica que o problema é distribuído entre diferentes situações, exigindo controles mais abrangentes.
 
@@ -194,10 +194,8 @@ Também foram comparadas as taxas entre períodos, veículos e tipos de dia:
 - pico da noite: **20,13%**;
 - noite/madrugada: **19,87%**;
 - pico da manhã: **17,60%**;
-- Go Sedan e Premier Sedan: **21,35%**;
-- eBike: **21,22%**.
 
-![Taxa de cancelamento do motorista por recorte](assets/05_taxas_motorista.png)
+![Taxa de cancelamento do motorista por recorte](Imagens/taxas_periodo.png)
 
 As diferenças foram moderadas. Portanto, os maiores valores devem ser tratados como pontos de acompanhamento, e não como causas isoladas.
 
@@ -213,7 +211,7 @@ Principais destaques:
 - Go Sedan: **8,48%**;
 - Auto: **8,35%**.
 
-![No Driver Found por localidade](assets/06_no_driver_found.png)
+![No Driver Found por localidade](Imagens/taxa_tipocarro.png)
 
 O baixo volume do Uber XL reforça a necessidade de apresentar quantidade e percentual em conjunto.
 
@@ -229,7 +227,7 @@ A taxa de cancelamento do cliente aumentou conforme o `Avg VTAT`:
 | Acima de 15 minutos | 206 | 206 | 100,00% |
 | **Total** | **7.782** | **643** | **8,26%** |
 
-![Cancelamento do cliente por faixa de VTAT](assets/07_vtat_cancelamento_cliente.png)
+![Cancelamento do cliente por faixa de VTAT](Imagens/taxa_espera.png)
 
 O comportamento sugere associação entre espera e desistência. Entretanto, o resultado de 100% acima de 15 minutos deve ser validado, pois pode refletir a forma como o campo foi preenchido ou disponibilizado na base.
 
@@ -365,30 +363,6 @@ O resultado apoia uma estratégia combinada: controles gerais para reduzir cance
 5. Realizar testes controlados de reposicionamento e incentivos.
 6. Medir o impacto das ações antes e depois da implementação.
 7. Evoluir o dashboard para acompanhamento recorrente da operação.
-
----
-
-## Estrutura sugerida do repositório
-
-```text
-projeto-uber-ncr/
-├── README.md
-├── data/
-│   └── ncr_ride_bookings.csv
-├── dashboard/
-│   └── uber_ncr_dashboard.pbix
-├── analysis/
-│   └── analises_exploratorias.xlsx
-└── assets/
-    ├── 01_composicao_geral.png
-    ├── 02_top10_localidades.png
-    ├── 03_composicao_status_top10.png
-    ├── 04_motivos_motorista.png
-    ├── 05_taxas_motorista.png
-    ├── 06_no_driver_found.png
-    ├── 07_vtat_cancelamento_cliente.png
-    └── 08_dashboard_localidades.png
-```
 
 ## Autor
 
