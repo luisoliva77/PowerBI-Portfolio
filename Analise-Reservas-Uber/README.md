@@ -195,7 +195,7 @@ Também foram comparadas as taxas entre períodos, veículos e tipos de dia:
 - noite/madrugada: **19,87%**;
 - pico da manhã: **17,60%**;
 
-![Taxa de cancelamento do motorista por recorte](Imagens/taxas_periodo.png)
+![Taxa de cancelamento do motorista por recorte](Imagens/taxa_periodo.png)
 
 As diferenças foram moderadas. Portanto, os maiores valores devem ser tratados como pontos de acompanhamento, e não como causas isoladas.
 
