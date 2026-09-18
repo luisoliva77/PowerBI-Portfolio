@@ -145,13 +145,13 @@ O primeiro nível da análise confirmou que mais de uma em cada três reservas n
 
 O cancelamento pelo motorista foi o maior componente da não conclusão. Por isso, recebeu a maior prioridade investigativa.
 
-![Composição dos status nas localidades prioritárias](assets/03_composicao_status_top10.png)
+![Composição dos status nas localidades prioritárias](Imagens/nao_conclusao_status.png)
 
 ### Passo 5: identificar as localidades prioritárias
 
 As localidades foram comparadas pela taxa de não conclusão. Foram selecionadas as dez localidades acima da média geral com maior resultado.
 
-![Top 10 localidades prioritárias](assets/02_top10_localidades.png)
+![Top 10 localidades prioritárias](Imagens/)
 
 | Localidade | Reservas | Não concluídas | Taxa de não conclusão |
 |---|---:|---:|---:|
