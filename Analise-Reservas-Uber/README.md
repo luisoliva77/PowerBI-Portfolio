@@ -1,28 +1,5 @@
 # Análise de Reservas e Corridas Não Concluídas — Uber NCR
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-Análise-217346?logo=microsoftexcel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-Tratamento-2E75B6)
-![DAX](https://img.shields.io/badge/DAX-Medidas-12239E)
-
-## Sumário
-
-- [Problema de negócio](#problema-de-negócio)
-- [Contexto](#contexto)
-- [Objetivo](#objetivo)
-- [Base de dados](#base-de-dados)
-- [Premissas da análise](#premissas-da-análise)
-- [Ferramentas utilizadas](#ferramentas-utilizadas)
-- [Estratégia da solução](#estratégia-da-solução)
-- [Priorização das análises](#priorização-das-análises)
-- [Principais insights](#principais-insights)
-- [Recomendações](#recomendações)
-- [Resultado final](#resultado-final)
-- [Limitações](#limitações)
-- [Próximos passos](#próximos-passos)
-
----
-
 ## Problema de negócio
 
 A plataforma apresenta **38% de corridas não concluídas**, o equivalente a **57 mil reservas em uma base de 150 mil registros**. Esse resultado reduz a eficiência operacional, prejudica a experiência do cliente e representa perda de oportunidades de viagem.
