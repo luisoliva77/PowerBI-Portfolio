@@ -226,7 +226,7 @@ O dashboard foi organizado para conduzir a leitura do geral ao específico:
 5. experiência do cliente;
 6. recomendações operacionais.
 
-![Página de localidades prioritárias](assets/08_dashboard_localidades.png)
+![Página de localidades prioritárias](Imagens/)
 
 ## Priorização das análises
 
@@ -340,6 +340,8 @@ O resultado apoia uma estratégia combinada: controles gerais para reduzir cance
 5. Realizar testes controlados de reposicionamento e incentivos.
 6. Medir o impacto das ações antes e depois da implementação.
 7. Evoluir o dashboard para acompanhamento recorrente da operação.
+
+Acesso ao Dashboard do projeto: [https://app.powerbi.com/view?r=eyJrIjoiYWZmODI4ZjgtZmE3OC00YjA5LWEwNmUtMTM1ZGY5NzdlNmFkIiwidCI6IjFkYjg3Njk3LWJhNWUtNDcyMC1iNmQ1LTIxNzA3Y2Q5YTRjNyJ9]
 
 ## Autor
 
