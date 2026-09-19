@@ -226,7 +226,7 @@ O dashboard foi organizado para conduzir a leitura do geral ao específico:
 5. experiência do cliente;
 6. recomendações operacionais.
 
-![Página de localidades prioritárias](Imagens/)
+![Página de localidades prioritárias](Imagens/Proj_Uber.jpg)
 
 ## Priorização das análises
 
