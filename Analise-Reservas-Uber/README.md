@@ -341,7 +341,7 @@ O resultado apoia uma estratégia combinada: controles gerais para reduzir cance
 6. Medir o impacto das ações antes e depois da implementação.
 7. Evoluir o dashboard para acompanhamento recorrente da operação.
 
-Acesso ao Dashboard do projeto: [https://app.powerbi.com/view?r=eyJrIjoiYWZmODI4ZjgtZmE3OC00YjA5LWEwNmUtMTM1ZGY5NzdlNmFkIiwidCI6IjFkYjg3Njk3LWJhNWUtNDcyMC1iNmQ1LTIxNzA3Y2Q5YTRjNyJ9]
+🔗 [Acessar o Dashboard Interativo no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYWZmODI4ZjgtZmE3OC00YjA5LWEwNmUtMTM1ZGY5NzdlNmFkIiwidCI6IjFkYjg3Njk3LWJhNWUtNDcyMC1iNmQ1LTIxNzA3Y2Q5YTRjNyJ9)
 
 ## Autor
 
